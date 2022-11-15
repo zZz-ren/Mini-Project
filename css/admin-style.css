@@ -1,0 +1,14 @@
+.form-control{
+    border: 1px solid #b3a1a1 !important;
+    padding: 8px 10px;
+}
+
+.card{
+    margin: 10px;
+    padding: 10PX;
+}
+
+.btn{
+    width: 6rem;
+    margin-top: 10px;
+}
